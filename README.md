@@ -1,4 +1,8 @@
 # DWS_serious_game
+
+## A new better version is now available at : https://github.com/gentr1/water-serious-game
+## Please go there instead!
+
 Serious Game for WDS Analysis, Design &amp; Evaluation -multiplayer online serious game -  three.js + sails.js + angular
 
 Needs node.js and a mongodb server to be installed and running.
